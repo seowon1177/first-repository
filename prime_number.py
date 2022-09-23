@@ -5,3 +5,7 @@ def is_prime_number(x):
             return
     print("The number {num1} is a prime number.".format(num1=x))
 
+
+is_prime_number(7)
+is_prime_number(17)
+is_prime_number(27)
